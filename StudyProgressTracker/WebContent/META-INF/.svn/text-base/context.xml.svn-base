@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- The contents of this file will be loaded for each web application -->
+<Context>
+
+	<WatchedResource>WEB-INF/web.xml</WatchedResource>
+
+	<Realm className="org.apache.catalina.realm.JDBCRealm"
+		driverName="com.mysql.jdbc.Driver"
+		connectionURL="jdbc:mysql://141.225.11.129:3306/cardinal"
+		connectionName="u_cardinal"
+		connectionPassword="nik6ITA"
+		userTable="GS_Users"
+		userNameCol="username"
+		userCredCol="password"
+		userRoleTable="GS_User_Roles"
+		roleNameCol="role" />
+
+</Context>

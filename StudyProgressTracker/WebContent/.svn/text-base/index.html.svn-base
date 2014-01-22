@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta charset="UTF-8">
+<title>Hello!</title>
+</head>
+<body>
+
+<h1>Welcome to the CS GRAduate Tracker!</h1>
+<a href="FacultyAddStudentServlet.do">add students</a>
+<a href="AddDelFacultyServlet.do">Add/Del Faculty</a>
+</body>
+</html>

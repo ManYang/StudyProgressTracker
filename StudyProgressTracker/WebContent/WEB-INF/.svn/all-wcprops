@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/course/!svn/ver/6936/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF
+END
+c_degree_requirements.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/course/!svn/ver/6933/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/c_degree_requirements.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/course/!svn/ver/6913/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/error.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/course/!svn/ver/6597/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/login.jsp
+END
+StudentInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/course/!svn/ver/6932/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/StudentInfo.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/course/!svn/ver/6597/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/header.jsp
+END
+AdminHome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/course/!svn/ver/6830/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/AdminHome.jsp
+END
+jquery-1.9.1.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/course/!svn/ver/5314/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/jquery-1.9.1.js
+END
+navbar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/course/!svn/ver/6620/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/navbar.jsp
+END
+AccountSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/course/!svn/ver/6597/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/AccountSettings.jsp
+END
+SearchGrade.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/course/!svn/ver/5803/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/SearchGrade.html
+END
+faculty_confirmGrade.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/course/!svn/ver/6912/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/faculty_confirmGrade.jsp
+END
+StudentAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/course/!svn/ver/6597/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/StudentAccount.jsp
+END
+PlannedCourses.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/course/!svn/ver/6905/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/PlannedCourses.jsp
+END
+PPapersList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/course/!svn/ver/6906/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/PPapersList.jsp
+END
+faculty_viewGrade.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/course/!svn/ver/6913/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/faculty_viewGrade.jsp
+END
+student_gradeView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/course/!svn/ver/6936/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/student_gradeView.jsp
+END
+PPapersUpload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/course/!svn/ver/6597/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/PPapersUpload.jsp
+END
+DelFaculty.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/course/!svn/ver/6762/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/DelFaculty.jsp
+END
+StudentHome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/course/!svn/ver/6597/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/StudentHome.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/course/!svn/ver/6597/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/footer.jsp
+END
+student_gradeEdit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/course/!svn/ver/6923/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/student_gradeEdit.jsp
+END
+FacultyAddStudent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/course/!svn/ver/6917/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/FacultyAddStudent.jsp
+END
+FacultyHome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/course/!svn/ver/6597/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/FacultyHome.jsp
+END
+AddFaculty.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/course/!svn/ver/6762/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/AddFaculty.jsp
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/course/!svn/ver/6891/comp7012-2013spring/teams/cardinal/CSGradTracker/trunk/WebContent/WEB-INF/web.xml
+END
